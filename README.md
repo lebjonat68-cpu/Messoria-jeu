@@ -2,7 +2,7 @@
 
 « Chaque tâche est une quête » : un jeu de rôle en pixel art où les tâches de la maison deviennent des quêtes pour les enfants.
 
-**Jouer :** https://lebjonat68-cpu.github.io/messoria-jeu/
+**Jouer :** https://lebjonat68-cpu.github.io/Messoria-jeu/
 
 Ceci est une version de test. Les parties restent dans le navigateur de chaque appareil.
 
